@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-test-provider:war">
+    <output-path>$PROJECT_DIR$/../springboot-test-provider/target</output-path>
+    <root id="archive" name="springboot-test-provider-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="springboot-test-provider:war exploded" />
+    </root>
+  </artifact>
+</component>
