@@ -10,6 +10,8 @@
         <module name="service-comsumer" />
         <module name="service-consumer" />
         <module name="service-provider" />
+        <module name="springboot-service" />
+        <module name="springboot-service-consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -19,6 +21,8 @@
       <module name="service-provider" target="1.8" />
       <module name="springboot" target="1.8" />
       <module name="springboot-comment" target="1.8" />
+      <module name="springboot-service" target="1.8" />
+      <module name="springboot-service-consumer" target="1.8" />
       <module name="springboot-test-api" target="1.8" />
       <module name="springboot-test-provider" target="1.8" />
       <module name="注解原理" target="1.8" />
