@@ -1,45 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83f2af9f-9b8f-445b-873e-520a0f8db645" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../springboot-service-consumer/src/main/library/springboot-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springboot-service/springboot-service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-consumer/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-consumer/service-consumer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-consumer/service-provider.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-consumer/src/main/java/store/wecloud/springboot/consumer/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-consumer/src/main/library/service-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-consumer/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-consumer/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service-consumer/target/classes/store/wecloud/springboot/Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/src/main/java/store/wecloud/springboot/service/Service.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/src/main/java/store/wecloud/springboot/service/ServiceAutoConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/src/main/java/store/wecloud/springboot/service/ServiceProperties.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/src/main/resources/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/target/classes/META-INF/spring.factories" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/target/classes/store/wecloud/service/Service.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/target/classes/store/wecloud/service/ServiceAutoConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/target/classes/store/wecloud/service/ServiceProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../service/target/service-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-comment/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-comment/springboot-comment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-service-consumer/springboot-service-consumer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-comment/src/main/resources/application-dev.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-comment/src/main/resources/application-prod.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-comment/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-test-api/src/main/java/store/wecloud/springboot/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-test-api/src/main/java/store/wecloud/springboot/service/consumer/bean/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-test-provider/src/main/java/store/wecloud/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-test-provider/src/main/java/store/wecloud/springboot/service/consumer/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-test-provider/src/main/java/store/wecloud/springboot/controller/AuthorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-test-provider/src/main/java/store/wecloud/springboot/service/consumer/controller/AuthorController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list id="20dd9660-e397-43d2-a8e6-fbc8a119dcdb" name="Revert: third commit" comment="">
+      <change afterPath="$PROJECT_DIR$/../service-consumer/service-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service-consumer/service-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service-consumer/src/main/library/service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service-consumer/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service-consumer/target/classes/store/wecloud/springboot/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service/target/classes/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service/target/classes/store/wecloud/service/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service/target/classes/store/wecloud/service/ServiceAutoConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service/target/classes/store/wecloud/service/ServiceProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../service/target/service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-comment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-comment/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-comment/src/main/resources/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-comment/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-test-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-test-api/src/main/java/store/wecloud/springboot/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-test-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-test-provider/springboot-test-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-test-provider/src/main/java/store/wecloud/springboot/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-test-provider/src/main/java/store/wecloud/springboot/controller/AuthorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-test-provider/src/main/resources/author.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot-test-provider/src/main/resources/banner.txt" afterDir="false" />
+    </list>
+    <list default="true" id="83f2af9f-9b8f-445b-873e-520a0f8db645" name="Default" comment="third commit">
+      <change beforePath="$PROJECT_DIR$/../service-consumer/src/main/java/store/wecloud/springboot/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service/src/main/java/store/wecloud/service/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service/src/main/java/store/wecloud/service/ServiceAutoConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../service/src/main/java/store/wecloud/service/ServiceProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-comment/springboot-comment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-test-api/springboot-test-api.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/../springboot-test-api/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,29 +57,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Application.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../springboot-service-consumer/src/main/java/store/wecloud/springboot/service/consumer/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,6 +69,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -370,6 +346,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="83f2af9f-9b8f-445b-873e-520a0f8db645" name="Default" comment="" />
+      <changelist id="20dd9660-e397-43d2-a8e6-fbc8a119dcdb" name="Revert: third commit" comment="" />
       <created>1533330771855</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -386,16 +363,23 @@
       <workItem from="1533461559202" duration="143000" />
       <workItem from="1533461704562" duration="152000" />
       <workItem from="1533461858726" duration="421000" />
-      <workItem from="1533462282203" duration="293000" />
+      <workItem from="1533462282203" duration="782000" />
     </task>
+    <task id="LOCAL-00001" summary="third commit">
+      <created>1533462693261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533462693261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21352000" />
+    <option name="totallyTimeSpent" value="21841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32897604" />
@@ -415,10 +399,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.3293348" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.3293348" />
       <window_info anchor="bottom" id="Spring" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.32824427" />
-      <window_info active="true" content_ui="combo" x="865" y="107" width="346" height="885" id="Project" order="5" visible="true" weight="0.2718601" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.32824427" />
+      <window_info content_ui="combo" x="865" y="107" width="346" height="885" id="Project" order="5" visible="true" weight="0.2718601" />
       <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -434,8 +418,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

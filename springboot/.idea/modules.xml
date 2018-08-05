@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/../springboot-service/springboot-service.iml" filepath="$PROJECT_DIR$/../springboot-service/springboot-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springboot-service-consumer/springboot-service-consumer.iml" filepath="$PROJECT_DIR$/../springboot-service-consumer/springboot-service-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/../springboot-test-api/springboot-test-api.iml" filepath="$PROJECT_DIR$/../springboot-test-api/springboot-test-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../springboot-test-provider/springboot-test-provider.iml" filepath="$PROJECT_DIR$/../springboot-test-provider/springboot-test-provider.iml" />
     </modules>
   </component>
 </project>
